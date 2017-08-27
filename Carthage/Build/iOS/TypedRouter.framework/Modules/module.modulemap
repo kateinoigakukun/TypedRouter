@@ -1,0 +1,10 @@
+framework module TypedRouter {
+  umbrella header "TypedRouter.h"
+
+  export *
+  module * { export * }
+}
+
+module TypedRouter.Swift {
+    header "TypedRouter-Swift.h"
+}
