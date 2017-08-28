@@ -53,6 +53,9 @@ let url = URL(string: "custom-urlscheme://users/123")!
 router.run(with: url)
 ```
 
+## TODO
+
+ - [ ] Query parameter
 
 ## Installation
 
